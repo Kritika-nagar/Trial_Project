@@ -2,3 +2,5 @@ Hi i am learning git.
 using inteliJ
 
 test changes
+
+go test
